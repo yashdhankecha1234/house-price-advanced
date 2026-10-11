@@ -1,0 +1,7 @@
+{
+  "best_model": "HistGradientBoosting",
+  "r2": 0.913,
+  "mae": 62372,
+  "cv_r2_mean": 0.895,
+  "interval_coverage": 0.725
+}
